@@ -1,12 +1,6 @@
----
-runme:
-  id: 01HM57FTKAHQ3MNNADSXR5AMPF
-  version: v2.2
----
-
 # api-quarkus-social
 
-Este projeto de estudo do Java com Quarkus, foi desenvolvido para a aplicação dos seguintes conteúdos:
+Este projeto de estudo do Java com Quarkus, foi desenvolvido para a aplicação dos seguintes conteúdos:  
 ( This Java with Quarkus study project was developed to apply the following content):
 
 1. REST API with sub-resources
